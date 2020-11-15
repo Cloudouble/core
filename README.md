@@ -5,7 +5,7 @@ Core library to use with other Cloudouble repositories
 * include the core.js file in your page, e.g.: 
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/cloudouble/core@1.0.2/core.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/cloudouble/core@1.0.3/core.min.js"></script>
 ```
 
 ## Usage
